@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<style>
+  
+      body {
+        background-color: orangered;
+      }
+
+      h1 {
+        color: green;
+        margin-left: 40px;
+      }
+      
+      h3 {
+                color: rgb(56, 21, 0);
+                margin-left: 40px;
+              }
+    </style>
+  </head>
